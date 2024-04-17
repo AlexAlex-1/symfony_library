@@ -4,6 +4,7 @@ namespace App\Validator\Constraints;
 use Symfony\Component\Validator\Constraint;
 
 /**
+ * @Annotation
  * Class ValidYear
  */
 class ValidYear extends Constraint
